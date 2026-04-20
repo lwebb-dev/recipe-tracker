@@ -63,3 +63,6 @@ desktop.ini
 *.mdf
 *.ldf
 *.bak
+
+# ---- Claude Context ----
+.claude/
